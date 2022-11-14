@@ -6,7 +6,7 @@
 name: Wendy Code
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Blogger from Somewhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEp2Y2nQJuPxQTRmAd-xXhTRXec1jFxm37UYWjsJ92Jz8WQk-gZxEQfjpEcJNOs6Yi74hTTIXxSdH9uzW7zVo8jfczjJOuMaPOX_DQUwctBQa8141CeyLG024FaWSbm6p1u3WQ6PZ2qV1hIWkCYuJiVE0-wooqh8ITnzRwnNpZE6lM/w100/20221109_183701.png
@@ -17,10 +17,10 @@ avatar: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEp2Y2nQJuPxQ
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  myblog: www.wendycode.com
+  myblog: https://www.wendycode.com
   dribbble:
   email:
-  facebook:
+  facebook: https://www.facebook.com/blogwendycode
   flickr:
   github:
   instagram:
@@ -29,7 +29,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: https://www.youtube.com/channel/UCKlfXy_XQHZmWSnUUvKJSzQ
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
