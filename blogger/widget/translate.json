@@ -1,0 +1,5 @@
+var users = [
+    { domain: "wendycode", id: "123456" },
+    { domain: "wendyaja", id: "wendy123" },
+    { domain: "wendylagi", id: "wendylagi333"}
+    ];
