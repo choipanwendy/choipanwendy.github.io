@@ -1,9 +1,6 @@
-
-  "users": [{
-    "domain": "www.wendycode.com",
-    "id": "122",
-  }, {
-    "domain": "www.choipanwendy.com",
-    "id": "0000", 
-  }]
-
+{
+  "user":[
+  {"nama":"wendy code","email":"wendycode","domain":123,"id":"3131"},
+  {"nama":"wendy code","email":"wendycode","domain":"www.wendycode.com","id":"232320"}
+  ]
+}
