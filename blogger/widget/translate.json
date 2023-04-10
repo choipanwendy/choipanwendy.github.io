@@ -1,5 +1,9 @@
-var users = [
-    { domain: "wendycode", id: "123456" },
-    { domain: "wendyaja", id: "wendy123" },
-    { domain: "wendylagi", id: "wendylagi333"}
-    ];
+{
+  "users": [{
+    "domain": "www.wendycode.com",
+    "id": "122",
+  }, {
+    "domain": "www.choipanwendy.com",
+    "id": "0000", 
+  }]
+}
