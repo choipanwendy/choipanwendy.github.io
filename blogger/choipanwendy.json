@@ -1,0 +1,38 @@
+{
+  "name": "CHOIPAN WENDY",
+  "short_name": "CHOIPAN WENDY",
+  "start_url": "https://www.choipanwendy.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "description": "choipan khas pontianak",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0r_f3whs_YEo-OLvH4QxoQs4DMAiupgE19m_9Ks7HzxQPYrM8YNJpdSFYylqTLc24nCaRWY7EjTd5e8nEcrBj53UgOCC04Y9jcZcz7qTddsDX5Q1HgfRAZUga-NfQCn1zHsvvWGAZJgfRAZxH4N3xNDsNI7zxnlfxAsoeDGJhrqW22uH6UIomFNF60Ow/s48/1000065924.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0r_f3whs_YEo-OLvH4QxoQs4DMAiupgE19m_9Ks7HzxQPYrM8YNJpdSFYylqTLc24nCaRWY7EjTd5e8nEcrBj53UgOCC04Y9jcZcz7qTddsDX5Q1HgfRAZUga-NfQCn1zHsvvWGAZJgfRAZxH4N3xNDsNI7zxnlfxAsoeDGJhrqW22uH6UIomFNF60Ow/s72/1000065924.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0r_f3whs_YEo-OLvH4QxoQs4DMAiupgE19m_9Ks7HzxQPYrM8YNJpdSFYylqTLc24nCaRWY7EjTd5e8nEcrBj53UgOCC04Y9jcZcz7qTddsDX5Q1HgfRAZUga-NfQCn1zHsvvWGAZJgfRAZxH4N3xNDsNI7zxnlfxAsoeDGJhrqW22uH6UIomFNF60Ow/s96/1000065924.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0r_f3whs_YEo-OLvH4QxoQs4DMAiupgE19m_9Ks7HzxQPYrM8YNJpdSFYylqTLc24nCaRWY7EjTd5e8nEcrBj53UgOCC04Y9jcZcz7qTddsDX5Q1HgfRAZUga-NfQCn1zHsvvWGAZJgfRAZxH4N3xNDsNI7zxnlfxAsoeDGJhrqW22uH6UIomFNF60Ow/s144/1000065924.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0r_f3whs_YEo-OLvH4QxoQs4DMAiupgE19m_9Ks7HzxQPYrM8YNJpdSFYylqTLc24nCaRWY7EjTd5e8nEcrBj53UgOCC04Y9jcZcz7qTddsDX5Q1HgfRAZUga-NfQCn1zHsvvWGAZJgfRAZxH4N3xNDsNI7zxnlfxAsoeDGJhrqW22uH6UIomFNF60Ow/s168/1000065924.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0r_f3whs_YEo-OLvH4QxoQs4DMAiupgE19m_9Ks7HzxQPYrM8YNJpdSFYylqTLc24nCaRWY7EjTd5e8nEcrBj53UgOCC04Y9jcZcz7qTddsDX5Q1HgfRAZUga-NfQCn1zHsvvWGAZJgfRAZxH4N3xNDsNI7zxnlfxAsoeDGJhrqW22uH6UIomFNF60Ow/s192/1000065924.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0r_f3whs_YEo-OLvH4QxoQs4DMAiupgE19m_9Ks7HzxQPYrM8YNJpdSFYylqTLc24nCaRWY7EjTd5e8nEcrBj53UgOCC04Y9jcZcz7qTddsDX5Q1HgfRAZUga-NfQCn1zHsvvWGAZJgfRAZxH4N3xNDsNI7zxnlfxAsoeDGJhrqW22uH6UIomFNF60Ow/s512/1000065924.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
