@@ -3,9 +3,14 @@
   "short_name": "CHOIPAN WENDY",
   "start_url": "https://www.choipanwendy.com/",
   "display": "standalone",
+  "id": "/?source=pwa",
+  "orientation": "portrait",
   "background_color": "#fff",
   "theme_color": "#fff",
   "description": "choipan khas pontianak",
+  "launch_handler": {
+    "client_mode": "focus-existing"
+  },
   "icons": [{
     "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0r_f3whs_YEo-OLvH4QxoQs4DMAiupgE19m_9Ks7HzxQPYrM8YNJpdSFYylqTLc24nCaRWY7EjTd5e8nEcrBj53UgOCC04Y9jcZcz7qTddsDX5Q1HgfRAZUga-NfQCn1zHsvvWGAZJgfRAZxH4N3xNDsNI7zxnlfxAsoeDGJhrqW22uH6UIomFNF60Ow/s48/1000065924.png",
     "sizes": "48x48",
